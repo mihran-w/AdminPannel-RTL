@@ -1,0 +1,8 @@
+mata
+nc=#2a2e38
+bg=#f0f2f8
+
+prl=#666ee8
+yel=#FF6D00
+grn=#43A047
+red=#e53935
